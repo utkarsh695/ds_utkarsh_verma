@@ -90,6 +90,9 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 Google colab
 
+Project link-
+https://colab.research.google.com/drive/1BmQQQ8BZON2Lpbm4ieo4qRKtZpyA91TP?usp=sharing
+
 📊 Future Enhancements
 
 Integrate real-time sentiment feeds (e.g., Twitter or Reddit data).
@@ -97,4 +100,6 @@ Integrate real-time sentiment feeds (e.g., Twitter or Reddit data).
 Build predictive models to forecast trading outcomes.
 
 Deploy insights into a dashboard (e.g., Streamlit or Power BI).
+
+
 
